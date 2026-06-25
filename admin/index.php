@@ -1,0 +1,1 @@
+<?php require '../config.php'; requireLogin(); header('Location: dashboard.php'); exit;
